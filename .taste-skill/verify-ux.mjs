@@ -1,0 +1,45 @@
+import { Browser, sleep } from '../.agents/skills/design-taste-frontend/scripts/lib/cdp.mjs'
+const browser = await Browser.launch()
+const results = []
+const assert = (condition, message) => { if (!condition) throw new Error(message); results.push(message) }
+try {
+  for (const width of [1440, 390, 320]) {
+    const page = await browser.newPage({ width, height: 844, mobile: width < 600 })
+    await page.goto('http://127.0.0.1:3000', { settleMs: 400 })
+    const click = async (selector) => { await page.eval((s) => { const el = document.querySelector(s); if (!el) throw new Error(s); el.click() }, selector); await sleep(100) }
+    await page.eval(() => { const el = document.querySelector(innerWidth < 800 ? '.mobile-book-button' : '.main-nav .button-nav'); el.focus(); el.click() })
+    await sleep(600)
+    assert(await page.eval(() => document.querySelector('[role="dialog"]').contains(document.activeElement)), `${width}: dialog takes focus`)
+    await page.eval(() => { const buttons = [...document.querySelector('[role="dialog"]').querySelectorAll('button:not(:disabled)')]; buttons.at(-1).focus() })
+    await page.send('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Tab', code: 'Tab', windowsVirtualKeyCode: 9 })
+    await page.send('Input.dispatchKeyEvent', { type: 'keyUp', key: 'Tab', code: 'Tab', windowsVirtualKeyCode: 9 })
+    assert(await page.eval(() => document.activeElement.matches('.modal-close')), `${width}: focus stays inside dialog`)
+    await click('.booking-footer .button-gold')
+    assert(await page.eval(() => document.activeElement.id === 'booking-error'), `${width}: validation error receives focus`)
+    await click('.service-choice')
+    assert(await page.eval(() => document.querySelector('.service-choice').getAttribute('aria-pressed') === 'true'), `${width}: service selection announced`)
+    await click('.booking-footer .button-gold')
+    await click('.booking-footer .button-gold')
+    await click('.calendar-day:not(:disabled)')
+    assert(await page.eval(() => document.querySelector('.calendar-day[aria-pressed="true"]').getAttribute('aria-label').length > 10), `${width}: calendar has full date labels`)
+    await page.screenshot({ path: `.taste-skill/ux-review-after/booking-${width}.jpg` })
+    assert(await page.eval(() => { const d = document.querySelector('[role="dialog"]'); return d.scrollWidth <= d.clientWidth + 1 && document.documentElement.scrollWidth <= innerWidth }), `${width}: no horizontal overflow`)
+    await click('.booking-footer .button-gold')
+    await click('.time-choice:not(:disabled)')
+    await click('.booking-footer .button-gold')
+    await click('.booking-footer .button-gold')
+    assert(await page.eval(() => document.querySelector('input[autocomplete="name"]').getAttribute('aria-invalid') === 'true'), `${width}: invalid field identified`)
+    await page.eval(() => { for (const [s, value] of [['name', 'Sample Visitor'], ['tel', '09171234567']]) { const el = document.querySelector(`input[autocomplete="${s}"]`); Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set.call(el, value); el.dispatchEvent(new Event('input', { bubbles: true })) } })
+    await sleep(100)
+    await click('.booking-footer .button-gold')
+    await click('.booking-footer .button-gold')
+    assert(await page.eval(() => document.querySelector('.confirmation-screen')?.textContent.includes('Your sample appointment')), `${width}: complete booking clearly labeled as sample`)
+    await page.screenshot({ path: `.taste-skill/ux-review-after/confirmation-${width}.jpg` })
+    await page.send('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Escape', code: 'Escape', windowsVirtualKeyCode: 27 })
+    await sleep(100)
+    assert(await page.eval(() => !document.querySelector('[role="dialog"]') && document.activeElement.textContent.includes('Book Now') && !document.querySelector('main').inert), `${width}: Escape closes and restores focus`)
+    assert(page.consoleErrors.length === 0, `${width}: no runtime errors`)
+    await page.close()
+  }
+  console.log(results.join('\n'))
+} finally { await browser.close() }

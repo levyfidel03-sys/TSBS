@@ -1,0 +1,3470 @@
+{
+ "url": "http://127.0.0.1:3000/",
+ "at": "2026-10-23T04:54:42.433Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0.97,
+    0.98,
+    0.98
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 9,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 9040,
+     "screens": 10,
+     "words": 1154,
+     "img": 13,
+     "video": 0,
+     "canvas": 0,
+     "svg": 96,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG",
+      "mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "chars": 36,
+     "lines": 3,
+     "size": 84,
+     "vw": 5.8,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.35,
+     "top": 267,
+     "mixedFonts": [
+      "Playfair Display",
+      "Playfair Display italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "lines": 3,
+     "size": 84,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "words": 6,
+      "chars": 36,
+      "lines": 3,
+      "size": 84,
+      "vw": 5.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 267,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 1052,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A good cut. Done properly.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 2316,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Better routines.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 3581,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the people behind the chair.",
+      "words": 6,
+      "chars": 33,
+      "lines": 2,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 5149,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little more than a haircut.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 6262,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The chair says enough.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 6881,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for yourself.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 66,
+      "vw": 4.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 7437,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Come on through.",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 7818,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 9
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      60,
+      62,
+      66,
+      84
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 10,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.8
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 84,
+      "vw": 5.8,
+      "font": "Playfair Display",
+      "text": "Your Style.Your Cut."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 53,
+     "microLabelShare": 0.149,
+     "microSamples": [
+      "INDEPENDENT BARBERS · MANILA",
+      "DEMO PROTOTYPE SAMPLE DETAILS",
+      "GOOD CUTS. GOOD COMPANY.",
+      "SHARP WORK. NO SHORTCUTS.",
+      "YOUR CHAIR, YOUR CALL.",
+      "EST. MMXXIV CUT WITH INTENTION"
+     ],
+     "upperShare": 0.19,
+     "centerShare": 0.1,
+     "smallText": 133
+    },
+    "eyebrows": [
+     {
+      "text": "GOOD CUTS. GOOD COMPANY.",
+      "above": "Your Style. Your Cut. Your Standard.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 233
+     },
+     {
+      "text": "THE LOOKBOOK",
+      "above": "Find your next look.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 1021
+     },
+     {
+      "text": "THE MENU",
+      "above": "A good cut. Done properly.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2286
+     },
+     {
+      "text": "THE FINISHING TOUCH",
+      "above": "Good tools. Better routines.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 3550
+     },
+     {
+      "text": "GOOD PEOPLE. GOOD HANDS.",
+      "above": "Meet the people behind the chair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 5119
+     },
+     {
+      "text": "KIND WORDS · SAMPLE REVIEWS",
+      "above": "The chair says enough.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 6850
+     },
+     {
+      "text": "YOUR CHAIR IS WAITING",
+      "above": "Make a little time for yourself.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 7404
+     },
+     {
+      "text": "FIND YOUR WAY IN",
+      "above": "Come on through.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 7787
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9,
+      "top": 1514
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 1514
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 1521
+     },
+     {
+      "text": "04",
+      "size": 9,
+      "top": 1514
+     },
+     {
+      "text": "05",
+      "size": 9,
+      "top": 1514
+     },
+     {
+      "text": "06",
+      "size": 9,
+      "top": 1872
+     },
+     {
+      "text": "07",
+      "size": 9,
+      "top": 1872
+     },
+     {
+      "text": "08",
+      "size": 9,
+      "top": 1872
+     },
+     {
+      "text": "01 / 08",
+      "size": 9,
+      "top": 2038
+     },
+     {
+      "text": "01",
+      "size": 9,
+      "top": 2602
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 2708
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 2813
+     }
+    ],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#141512",
+       "top": 111,
+       "hsl": {
+        "h": 80,
+        "s": 0.08,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#121310",
+       "top": 909,
+       "hsl": {
+        "h": 80,
+        "s": 0.09,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#e9e6dc",
+       "top": 2174,
+       "hsl": {
+        "h": 46,
+        "s": 0.23,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#171815",
+       "top": 3438,
+       "hsl": {
+        "h": 80,
+        "s": 0.07,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#c4a56d",
+       "top": 7336,
+       "hsl": {
+        "h": 39,
+        "s": 0.42,
+        "l": 0.6
+       }
+      },
+      {
+       "color": "#090a09",
+       "top": 8747,
+       "hsl": {
+        "h": 120,
+        "s": 0.05,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#898a81",
+       "share": 0.07
+      },
+      {
+       "color": "#989990",
+       "share": 0.07
+      },
+      {
+       "color": "#e9e6dc",
+       "share": 0.07
+      },
+      {
+       "color": "#77766d",
+       "share": 0.06
+      },
+      {
+       "color": "#797970",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#151612"
+     },
+     "lowContrast": [
+      {
+       "text": "Done properly.",
+       "ratio": 1.5,
+       "need": 3,
+       "size": 62,
+       "fg": "#d4bb88",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "behind the chair.",
+       "ratio": 1.5,
+       "need": 3,
+       "size": 62,
+       "fg": "#d4bb88",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 15,
+     "inHero": 3,
+     "radius": 0,
+     "height": 34,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 7,
+     "heroLabels": [
+      "Book Now",
+      "Book an Appointment",
+      "Explore Our Services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.map-center-pin → rgba(196, 165, 109, 0.13) 0px 0px 0px 10px"
+     ],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.map-grid → linear-gradient(30deg, rgba(0, 0, 0, 0) 47%, rgba(201, 193, 169, 0.11) 48%, rgba(201, 193, 169, 0.11) 49%, rgb"
+     ],
+     "gradientText": 0,
+     "hairlines": 31,
+     "hairlineSamples": [
+      "header.site-header 1440px",
+      "section#home.hero 1440px",
+      "div.gallery-bottom 1220px",
+      "div.service-list 1220px",
+      "article.service-row 1220px"
+     ],
+     "outlinedBoxes": 14,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 3821
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 7050
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.83
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 82,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 9040,
+    "margins": {
+     "left": 110,
+     "right": 110
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 111,
+      "height": 750,
+      "words": 51,
+      "media": 1,
+      "middle": 560,
+      "heading": {
+       "text": "Your Style.",
+       "size": 84,
+       "tag": "h1"
+      },
+      "left": 110,
+      "right": 111,
+      "textLeft": 110,
+      "textRight": 111,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 909,
+      "height": 1264,
+      "words": 157,
+      "media": 8,
+      "middle": 12,
+      "heading": {
+       "text": "Find your",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 111,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2174,
+      "height": 1265,
+      "words": 198,
+      "media": 0,
+      "middle": 357,
+      "heading": {
+       "text": "A good cut.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3438,
+      "height": 1568,
+      "words": 198,
+      "media": 0,
+      "middle": 17,
+      "heading": {
+       "text": "Good tools.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 127,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 5007,
+      "height": 1029,
+      "words": 142,
+      "media": 3,
+      "middle": 131,
+      "heading": {
+       "text": "Meet the people",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 159,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 6035,
+      "height": 719,
+      "words": 89,
+      "media": 0,
+      "middle": 245,
+      "heading": {
+       "text": "A little more",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 410,
+      "textLeft": 110,
+      "textRight": 410,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 6754,
+      "height": 582,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The chair says",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 133,
+      "right": 141,
+      "textLeft": 133,
+      "textRight": 141,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 7336,
+      "height": 339,
+      "words": 24,
+      "media": 0,
+      "middle": 592,
+      "heading": {
+       "text": "Make a little",
+       "size": 66,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 161,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 7675,
+      "height": 1072,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Come on",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 8747,
+      "height": 293,
+      "words": 57,
+      "media": 0,
+      "middle": 327,
+      "heading": null,
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "size": 84,
+      "top": 267,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 110,
+      "n": 17
+     },
+     {
+      "x": 183,
+      "n": 7
+     },
+     {
+      "x": 744,
+      "n": 7
+     },
+     {
+      "x": 127,
+      "n": 3
+     },
+     {
+      "x": 436,
+      "n": 2
+     },
+     {
+      "x": 138,
+      "n": 1
+     },
+     {
+      "x": 356,
+      "n": 1
+     },
+     {
+      "x": 370,
+      "n": 1
+     },
+     {
+      "x": 419,
+      "n": 1
+     },
+     {
+      "x": 544,
+      "n": 1
+     },
+     {
+      "x": 729,
+      "n": 1
+     },
+     {
+      "x": 956,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 44,
+    "bodySize": 10,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    0.93,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0.99,
+    1,
+    0.96,
+    1
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 9,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 11113,
+     "screens": 10.9,
+     "words": 1142,
+     "img": 13,
+     "video": 0,
+     "canvas": 0,
+     "svg": 96,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG",
+      "mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "chars": 36,
+     "lines": 3,
+     "size": 74,
+     "vw": 9.6,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.58,
+     "top": 255,
+     "mixedFonts": [
+      "Playfair Display",
+      "Playfair Display italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "lines": 3,
+     "size": 74,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "words": 6,
+      "chars": 36,
+      "lines": 3,
+      "size": 74,
+      "vw": 9.6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.58,
+      "top": 255,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 984,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A good cut. Done properly.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 2545,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Better routines.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 3791,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the people behind the chair.",
+      "words": 6,
+      "chars": 33,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 6513,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little more than a haircut.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 8113,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The chair says enough.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 8999,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for yourself.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 52,
+      "vw": 6.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 9512,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Come on through.",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 9826,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 9
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      17,
+      18,
+      19,
+      20,
+      24,
+      40,
+      42,
+      52,
+      74
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 10,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.8
+     },
+     "measureChars": 70,
+     "max": {
+      "size": 74,
+      "vw": 9.6,
+      "font": "Playfair Display",
+      "text": "Your Style.Your Cut."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 53,
+     "microLabelShare": 0.151,
+     "microSamples": [
+      "INDEPENDENT BARBERS · MANILA",
+      "DEMO PROTOTYPE SAMPLE DETAILS",
+      "GOOD CUTS. GOOD COMPANY.",
+      "SHARP WORK. NO SHORTCUTS.",
+      "YOUR CHAIR, YOUR CALL.",
+      "EST. MMXXIV CUT WITH INTENTION"
+     ],
+     "upperShare": 0.19,
+     "centerShare": 0.1,
+     "smallText": 132
+    },
+    "eyebrows": [
+     {
+      "text": "GOOD CUTS. GOOD COMPANY.",
+      "above": "Your Style. Your Cut. Your Standard.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 221
+     },
+     {
+      "text": "THE LOOKBOOK",
+      "above": "Find your next look.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 953
+     },
+     {
+      "text": "THE MENU",
+      "above": "A good cut. Done properly.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2515
+     },
+     {
+      "text": "THE FINISHING TOUCH",
+      "above": "Good tools. Better routines.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 3761
+     },
+     {
+      "text": "GOOD PEOPLE. GOOD HANDS.",
+      "above": "Meet the people behind the chair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 6483
+     },
+     {
+      "text": "WHY THE SOUTH",
+      "above": "A little more than a haircut.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 8083
+     },
+     {
+      "text": "KIND WORDS · SAMPLE REVIEWS",
+      "above": "The chair says enough.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 8969
+     },
+     {
+      "text": "YOUR CHAIR IS WAITING",
+      "above": "Make a little time for yourself.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 9479
+     },
+     {
+      "text": "FIND YOUR WAY IN",
+      "above": "Come on through.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 9795
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9,
+      "top": 1419
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 1419
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 1426
+     },
+     {
+      "text": "04",
+      "size": 9,
+      "top": 1787
+     },
+     {
+      "text": "05",
+      "size": 9,
+      "top": 1787
+     },
+     {
+      "text": "06",
+      "size": 9,
+      "top": 1787
+     },
+     {
+      "text": "07",
+      "size": 9,
+      "top": 2154
+     },
+     {
+      "text": "08",
+      "size": 9,
+      "top": 2154
+     },
+     {
+      "text": "01 / 08",
+      "size": 9,
+      "top": 2320
+     },
+     {
+      "text": "01",
+      "size": 9,
+      "top": 2793
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 2914
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 3036
+     }
+    ],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#141512",
+       "top": 99,
+       "hsl": {
+        "h": 80,
+        "s": 0.08,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#121310",
+       "top": 867,
+       "hsl": {
+        "h": 80,
+        "s": 0.09,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#e9e6dc",
+       "top": 2429,
+       "hsl": {
+        "h": 46,
+        "s": 0.23,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#171815",
+       "top": 3675,
+       "hsl": {
+        "h": 80,
+        "s": 0.07,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#1a1b17",
+       "top": 10322,
+       "hsl": {
+        "h": 75,
+        "s": 0.08,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#898a81",
+       "share": 0.07
+      },
+      {
+       "color": "#989990",
+       "share": 0.07
+      },
+      {
+       "color": "#e9e6dc",
+       "share": 0.07
+      },
+      {
+       "color": "#77766d",
+       "share": 0.06
+      },
+      {
+       "color": "#797970",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#151612"
+     },
+     "lowContrast": [
+      {
+       "text": "Done properly.",
+       "ratio": 1.5,
+       "need": 3,
+       "size": 40,
+       "fg": "#d4bb88",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 8,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 14,
+     "inHero": 2,
+     "radius": 0,
+     "height": 34,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 7,
+     "heroLabels": [
+      "Book an Appointment",
+      "Explore Our Services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.map-center-pin → rgba(196, 165, 109, 0.13) 0px 0px 0px 10px"
+     ],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.map-grid → linear-gradient(30deg, rgba(0, 0, 0, 0) 47%, rgba(201, 193, 169, 0.11) 48%, rgba(201, 193, 169, 0.11) 49%, rgb"
+     ],
+     "gradientText": 0,
+     "hairlines": 29,
+     "hairlineSamples": [
+      "header.site-header 768px",
+      "section#home.hero 768px",
+      "div.gallery-bottom 718px",
+      "div.service-list 718px",
+      "article.service-row 718px"
+     ],
+     "outlinedBoxes": 14,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 3985
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 9145
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.7
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 70,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 11113,
+    "margins": {
+     "left": 25,
+     "right": 25
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 99,
+      "height": 720,
+      "words": 51,
+      "media": 1,
+      "middle": 118,
+      "heading": {
+       "text": "Your Style.",
+       "size": 74,
+       "tag": "h1"
+      },
+      "left": 25,
+      "right": 30,
+      "textLeft": 25,
+      "textRight": 30,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 867,
+      "height": 1562,
+      "words": 157,
+      "media": 8,
+      "middle": 12,
+      "heading": {
+       "text": "Find your",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2429,
+      "height": 1246,
+      "words": 198,
+      "media": 0,
+      "middle": 6,
+      "heading": {
+       "text": "A good cut.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3675,
+      "height": 2722,
+      "words": 198,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good tools.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 6397,
+      "height": 1600,
+      "words": 142,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Meet the people",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 7997,
+      "height": 886,
+      "words": 89,
+      "media": 0,
+      "middle": 247,
+      "heading": {
+       "text": "A little more",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 38,
+      "textLeft": 25,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 8883,
+      "height": 540,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The chair says",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 41,
+      "right": 62,
+      "textLeft": 41,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 9423,
+      "height": 287,
+      "words": 24,
+      "media": 0,
+      "middle": 182,
+      "heading": {
+       "text": "Make a little",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 76,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 9709,
+      "height": 1111,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Come on",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10821,
+      "height": 293,
+      "words": 57,
+      "media": 0,
+      "middle": 89,
+      "heading": null,
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "size": 74,
+      "top": 255,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 25,
+      "n": 18
+     },
+     {
+      "x": 89,
+      "n": 12
+     },
+     {
+      "x": 41,
+      "n": 6
+     },
+     {
+      "x": 409,
+      "n": 3
+     },
+     {
+      "x": 184,
+      "n": 2
+     },
+     {
+      "x": 284,
+      "n": 1
+     },
+     {
+      "x": 392,
+      "n": 1
+     },
+     {
+      "x": 526,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 44,
+    "bodySize": 10,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    1,
+    0.94,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0.9,
+    1
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 9,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 10682,
+     "screens": 12.7,
+     "words": 1120,
+     "img": 13,
+     "video": 0,
+     "canvas": 0,
+     "svg": 96,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG",
+      "mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "chars": 36,
+     "lines": 3,
+     "size": 50.7,
+     "vw": 13,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.82,
+     "top": 272,
+     "mixedFonts": [
+      "Playfair Display",
+      "Playfair Display italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Style. Your Cut. Your Standard.",
+     "words": 6,
+     "lines": 3,
+     "size": 50.7,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "words": 6,
+      "chars": 36,
+      "lines": 3,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 272,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 900,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A good cut. Done properly.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2530,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Better routines.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 3986,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet the people behind the chair.",
+      "words": 6,
+      "chars": 33,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 5818,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little more than a haircut.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 6978,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The chair says enough.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 7716,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make a little time for yourself.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 8513,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Come on through.",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 8855,
+      "mixedFonts": [
+       "Playfair Display",
+       "Playfair Display italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We’re all ears.",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 9631,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 9
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.89,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.11,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      24,
+      40,
+      42,
+      48,
+      51
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 11,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 64,
+     "max": {
+      "size": 50.7,
+      "vw": 13,
+      "font": "Playfair Display",
+      "text": "Your Style.Your Cut."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 52,
+     "microLabelShare": 0.149,
+     "microSamples": [
+      "INDEPENDENT BARBERS · MANILA",
+      "DEMO PROTOTYPE SAMPLE DETAILS",
+      "GOOD CUTS. GOOD COMPANY.",
+      "SHARP WORK. NO SHORTCUTS.",
+      "YOUR CHAIR, YOUR CALL.",
+      "GOOD HAIR ISN’T AN ACCIDENT."
+     ],
+     "upperShare": 0.17,
+     "centerShare": 0.09,
+     "smallText": 142
+    },
+    "eyebrows": [
+     {
+      "text": "GOOD CUTS. GOOD COMPANY.",
+      "above": "Your Style. Your Cut. Your Standard.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 239
+     },
+     {
+      "text": "THE LOOKBOOK",
+      "above": "Find your next look.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 870
+     },
+     {
+      "text": "THE MENU",
+      "above": "A good cut. Done properly.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 2500
+     },
+     {
+      "text": "THE FINISHING TOUCH",
+      "above": "Good tools. Better routines.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 3956
+     },
+     {
+      "text": "GOOD PEOPLE. GOOD HANDS.",
+      "above": "Meet the people behind the chair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 5788
+     },
+     {
+      "text": "WHY THE SOUTH",
+      "above": "A little more than a haircut.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 6948
+     },
+     {
+      "text": "KIND WORDS · SAMPLE REVIEWS",
+      "above": "The chair says enough.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 7686
+     },
+     {
+      "text": "YOUR CHAIR IS WAITING",
+      "above": "Make a little time for yourself.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 8479
+     },
+     {
+      "text": "FIND YOUR WAY IN",
+      "above": "Come on through.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 8825
+     },
+     {
+      "text": "A QUICK NOTE",
+      "above": "We’re all ears.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 9609
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9,
+      "top": 1233
+     },
+     {
+      "text": "02",
+      "size": 9,
+      "top": 1233
+     },
+     {
+      "text": "03",
+      "size": 9,
+      "top": 1537
+     },
+     {
+      "text": "04",
+      "size": 9,
+      "top": 1537
+     },
+     {
+      "text": "05",
+      "size": 9,
+      "top": 1840
+     },
+     {
+      "text": "06",
+      "size": 9,
+      "top": 1840
+     },
+     {
+      "text": "07",
+      "size": 9,
+      "top": 2144
+     },
+     {
+      "text": "08",
+      "size": 9,
+      "top": 2144
+     },
+     {
+      "text": "01 / 08",
+      "size": 9,
+      "top": 2340
+     },
+     {
+      "text": "01",
+      "size": 8,
+      "top": 2771
+     },
+     {
+      "text": "02",
+      "size": 8,
+      "top": 2920
+     },
+     {
+      "text": "03",
+      "size": 8,
+      "top": 3070
+     }
+    ],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#141512",
+       "top": 95,
+       "hsl": {
+        "h": 80,
+        "s": 0.08,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#121310",
+       "top": 802,
+       "hsl": {
+        "h": 80,
+        "s": 0.09,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#e9e6dc",
+       "top": 2432,
+       "hsl": {
+        "h": 46,
+        "s": 0.23,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#171815",
+       "top": 3888,
+       "hsl": {
+        "h": 80,
+        "s": 0.07,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#c4a56d",
+       "top": 8433,
+       "hsl": {
+        "h": 39,
+        "s": 0.42,
+        "l": 0.6
+       }
+      },
+      {
+       "color": "#1a1b17",
+       "top": 9590,
+       "hsl": {
+        "h": 75,
+        "s": 0.08,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#090a09",
+       "top": 10150,
+       "hsl": {
+        "h": 120,
+        "s": 0.05,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#898a81",
+       "share": 0.07
+      },
+      {
+       "color": "#989990",
+       "share": 0.07
+      },
+      {
+       "color": "#e9e6dc",
+       "share": 0.07
+      },
+      {
+       "color": "#77766d",
+       "share": 0.06
+      },
+      {
+       "color": "#797970",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#151612"
+     },
+     "lowContrast": [
+      {
+       "text": "Done properly.",
+       "ratio": 1.5,
+       "need": 3,
+       "size": 42,
+       "fg": "#d4bb88",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 7,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 7,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 7,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 7,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      },
+      {
+       "text": "sample",
+       "ratio": 2.7,
+       "need": 4.5,
+       "size": 7,
+       "fg": "#908c82",
+       "bg": "#e9e6dc"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 2,
+     "radius": 0,
+     "height": 31,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book an Appointment",
+      "Explore Our Services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.map-center-pin → rgba(196, 165, 109, 0.13) 0px 0px 0px 10px"
+     ],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.map-grid → linear-gradient(30deg, rgba(0, 0, 0, 0) 47%, rgba(201, 193, 169, 0.11) 48%, rgba(201, 193, 169, 0.11) 49%, rgb"
+     ],
+     "gradientText": 0,
+     "hairlines": 22,
+     "hairlineSamples": [
+      "header.site-header 390px",
+      "section#home.hero 390px",
+      "div.gallery-bottom 354px",
+      "div.service-list 354px",
+      "article.service-row 354px"
+     ],
+     "outlinedBoxes": 14,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 2,
+     "boxRadius": 50,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 4156
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.8
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 70,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 10682,
+    "margins": {
+     "left": 18,
+     "right": 18
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 95,
+      "height": 673,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Your Style.",
+       "size": 51,
+       "tag": "h1"
+      },
+      "left": 18,
+      "right": 56,
+      "textLeft": 18,
+      "textRight": 56,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 802,
+      "height": 1630,
+      "words": 154,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Find your",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 18,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2432,
+      "height": 1456,
+      "words": 191,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A good cut.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 18,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3888,
+      "height": 1832,
+      "words": 195,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good tools.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 19,
+      "textLeft": 18,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 5720,
+      "height": 1160,
+      "words": 138,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Meet the people",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 18,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 6880,
+      "height": 740,
+      "words": 89,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A little more",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 28,
+      "textLeft": 18,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 7620,
+      "height": 814,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The chair says",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 23,
+      "textLeft": 23,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 8433,
+      "height": 323,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Make a little",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 56,
+      "textLeft": 18,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 8757,
+      "height": 1393,
+      "words": 129,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Come on",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 18,
+      "right": 18,
+      "textLeft": 18,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10150,
+      "height": 532,
+      "words": 57,
+      "media": 0,
+      "middle": 20,
+      "heading": null,
+      "left": 18,
+      "right": 18,
+      "textLeft": 18,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your Style. Your Cut. Your Standard.",
+      "size": 51,
+      "top": 272,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 18,
+      "n": 17
+     },
+     {
+      "x": 53,
+      "n": 7
+     },
+     {
+      "x": 68,
+      "n": 5
+     },
+     {
+      "x": 33,
+      "n": 4
+     },
+     {
+      "x": 185,
+      "n": 2
+     },
+     {
+      "x": 201,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 36,
+    "bodySize": 9,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "1 headline(s) wrap past two lines at 1440px: \"Your Style. Your Cut. Your Standard.\" → 3 lines (6 words, 84px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "9 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "8 eyebrow/kicker label(s) above headings: \"GOOD CUTS. GOOD COMPANY.\" above \"Your Style. Your Cut. Your Standard.\"; \"THE LOOKBOOK\" above \"Find your next look.\"; \"THE MENU\" above \"A good cut. Done properly.\"; \"THE FINISHING TOUCH\" above \"Good tools. Better routines.\"; \"GOOD PEOPLE. GOOD HANDS.\" above \"Meet the people behind the chair.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01\", \"02\", \"03\", \"04\", \"05\", \"06\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "53 tiny uppercase letter-spaced labels (e.g. \"INDEPENDENT BARBERS · MANILA\", \"DEMO PROTOTYPE SAMPLE DETAILS\", \"GOOD CUTS. GOOD COMPANY.\", \"SHARP WORK. NO SHORTCUTS.\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): div.map-grid → linear-gradient(30deg, rgba(0, 0, 0, 0) 47%, rgba(201, 193, 169, 0.11) 48%, rgba(201, 193, 169, 0.11) 49%, rgb",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "1 box-shadow(s) on elements at rest: div.map-center-pin → rgba(196, 165, 109, 0.13) 0px 0px 0px 10px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "31 thin rule(s)/divider line(s): header.site-header 1440px | section#home.hero 1440px | div.gallery-bottom 1220px | div.service-list 1220px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "14 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "2 row(s) of identical cards each topped with a small icon (7, 3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (section #e9e6dc, text #e9e6dc).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Unreadable text: \"Done properly.\" 1.5:1 (#d4bb88 on #e9e6dc); \"behind the chair.\" 1.5:1 (#d4bb88 on #e9e6dc)",
+   "fix": "Raise contrast to at least 4.5:1 for text, 3:1 for large display.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "18 different font sizes (7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 24, 60, 62, 66, 84).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 10px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5.8:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "133 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 9 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Your Style. Your Cut. Your Standard.\" → 3 lines (6 words, 74px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Your Style. Your Cut. Your Standard.\" → 3 lines (6 words, 50.7px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/before/desktop-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/desktop-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/desktop-page-02.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/before/tablet-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/tablet-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/before/mobile-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/mobile-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/before/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

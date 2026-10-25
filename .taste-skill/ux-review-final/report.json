@@ -1,0 +1,2485 @@
+{
+ "url": "http://127.0.0.1:3000",
+ "at": "2026-10-25T15:20:04.737Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.16,
+    0.5,
+    0.56,
+    0.98,
+    0.52,
+    0.63,
+    0.52,
+    0.7,
+    0.49,
+    0.27
+   ],
+   "motion": {
+    "elements": 67,
+    "css": 61,
+    "transitions": 6,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8450,
+     "screens": 9.4,
+     "words": 803,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 69,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "midfade.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "chars": 24,
+     "lines": 2,
+     "size": 86.4,
+     "vw": 6,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 0.99,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 250,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "lines": 2,
+     "size": 86.4,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your cut. Your standard.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 250,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1030,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2476,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 3857,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 5103,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Not sure who to pick?",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 5382,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 5955,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 46,
+      "vw": 3.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 6584,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your way to The South.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 7199,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a note.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.34,
+      "top": 7436,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 0.82,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.18,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      26,
+      32,
+      34,
+      46,
+      48,
+      64,
+      68,
+      86
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 16.4
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 86.4,
+      "vw": 6,
+      "font": "Playfair Display",
+      "text": "Your cut.Your standard."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.06,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#10100f",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.03,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#10100f",
+       "top": 82,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#eeebdf",
+       "top": 2346,
+       "hsl": {
+        "h": 48,
+        "s": 0.31,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#c6c2b8",
+       "share": 0.33
+      },
+      {
+       "color": "#f1eee5",
+       "share": 0.25
+      },
+      {
+       "color": "#211f1b",
+       "share": 0.21
+      },
+      {
+       "color": "#5c584f",
+       "share": 0.12
+      },
+      {
+       "color": "#c5a46c",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#c5a46c",
+      "hsl": {
+       "h": 38,
+       "s": 0.43,
+       "l": 0.6
+      },
+      "fg": "#14130f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 10,
+     "inHero": 2,
+     "radius": 0,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book Now"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 16,
+     "hairlineSamples": [
+      "div.gallery-bottom 1221px",
+      "article.service-row.motion-in 1221px",
+      "article.service-row.motion-in 1221px",
+      "article.service-row.motion-in 1221px",
+      "article.service-row.motion-in 1221px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 4039
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 6753
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.83
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 82,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 8450,
+    "margins": {
+     "left": 109,
+     "right": 109
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 82,
+      "height": 750,
+      "words": 12,
+      "media": 1,
+      "middle": 581,
+      "heading": {
+       "text": "Your cut.",
+       "size": 86,
+       "tag": "h1"
+      },
+      "left": 109,
+      "right": 115,
+      "textLeft": 109,
+      "textRight": 115,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 900,
+      "height": 1446,
+      "words": 136,
+      "media": 8,
+      "middle": 16,
+      "heading": {
+       "text": "Find your next look.",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 109,
+      "textLeft": 109,
+      "textRight": 138,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2346,
+      "height": 1381,
+      "words": 144,
+      "media": 0,
+      "middle": 510,
+      "heading": {
+       "text": "A menu",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 109,
+      "textLeft": 109,
+      "textRight": 123,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3727,
+      "height": 1239,
+      "words": 156,
+      "media": 0,
+      "middle": 40,
+      "heading": {
+       "text": "Good tools.",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 122,
+      "textLeft": 109,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 4966,
+      "height": 859,
+      "words": 77,
+      "media": 3,
+      "middle": 24,
+      "heading": {
+       "text": "Meet your barber.",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 125,
+      "textLeft": 109,
+      "textRight": 125,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 5826,
+      "height": 629,
+      "words": 80,
+      "media": 0,
+      "middle": 214,
+      "heading": {
+       "text": "Good work",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 158,
+      "textLeft": 109,
+      "textRight": 158,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 6455,
+      "height": 614,
+      "words": 74,
+      "media": 0,
+      "middle": 35,
+      "heading": {
+       "text": "Good cuts",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 131,
+      "right": 227,
+      "textLeft": 131,
+      "textRight": 227,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 7069,
+      "height": 1082,
+      "words": 79,
+      "media": 1,
+      "middle": 85,
+      "heading": {
+       "text": "Find your way",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 109,
+      "right": 137,
+      "textLeft": 109,
+      "textRight": 137,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 8151,
+      "height": 299,
+      "words": 30,
+      "media": 0,
+      "middle": 159,
+      "heading": null,
+      "left": 109,
+      "right": 109,
+      "textLeft": 109,
+      "textRight": 109,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your cut. Your standard.",
+      "size": 86,
+      "top": 250,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 109,
+      "n": 25
+     },
+     {
+      "x": 626,
+      "n": 5
+     },
+     {
+      "x": 732,
+      "n": 5
+     },
+     {
+      "x": 122,
+      "n": 3
+     },
+     {
+      "x": 357,
+      "n": 3
+     },
+     {
+      "x": 431,
+      "n": 3
+     },
+     {
+      "x": 604,
+      "n": 2
+     },
+     {
+      "x": 790,
+      "n": 2
+     },
+     {
+      "x": 852,
+      "n": 2
+     },
+     {
+      "x": 973,
+      "n": 2
+     },
+     {
+      "x": 995,
+      "n": 2
+     },
+     {
+      "x": 171,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 61,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.02,
+    "voidBox": {
+     "x": 300,
+     "y": 840,
+     "w": 360,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.16,
+    0.37,
+    0.95,
+    0.61,
+    0.6,
+    0.95,
+    0.44,
+    0.82,
+    0.41,
+    0.36
+   ],
+   "motion": {
+    "elements": 67,
+    "css": 61,
+    "transitions": 6,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 10038,
+     "screens": 9.8,
+     "words": 793,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 69,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "midfade.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 2,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "chars": 24,
+     "lines": 2,
+     "size": 76.8,
+     "vw": 10,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 0.99,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.79,
+     "top": 203,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "lines": 2,
+     "size": 76.8,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your cut. Your standard.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 76.8,
+      "vw": 10,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 203,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.57,
+      "top": 1032,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 2188,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 3435,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 5300,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 6557,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 46,
+      "vw": 6,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 7365,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your way to The South.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 42,
+      "vw": 5.5,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 8221,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a note.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 9100,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 0.82,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.18,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      25,
+      34,
+      42,
+      46,
+      48,
+      77
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 16.4
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 76.8,
+      "vw": 10,
+      "font": "Playfair Display",
+      "text": "Your cut.Your standard."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.06,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#10100f",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.03,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#10100f",
+       "top": 68,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#eeebdf",
+       "top": 2102,
+       "hsl": {
+        "h": 48,
+        "s": 0.31,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#1b1b19",
+       "top": 9068,
+       "hsl": {
+        "h": 60,
+        "s": 0.04,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#c6c2b8",
+       "share": 0.34
+      },
+      {
+       "color": "#f1eee5",
+       "share": 0.24
+      },
+      {
+       "color": "#211f1b",
+       "share": 0.21
+      },
+      {
+       "color": "#5c584f",
+       "share": 0.12
+      },
+      {
+       "color": "#c5a46c",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c5a46c",
+      "hsl": {
+       "h": 38,
+       "s": 0.43,
+       "l": 0.6
+      },
+      "fg": "#14130f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 10,
+     "inHero": 2,
+     "radius": 0,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book Now"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 14,
+     "hairlineSamples": [
+      "div.gallery-bottom 651px",
+      "article.service-row.motion-in 651px",
+      "article.service-row.motion-in 651px",
+      "article.service-row.motion-in 651px",
+      "article.service-row.motion-in 651px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 3638
+      },
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": false,
+       "top": 7534
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.8
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 10038,
+    "margins": {
+     "left": 58,
+     "right": 58
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 68,
+      "height": 820,
+      "words": 12,
+      "media": 1,
+      "middle": 67,
+      "heading": {
+       "text": "Your cut.",
+       "size": 77,
+       "tag": "h1"
+      },
+      "left": 58,
+      "right": 64,
+      "textLeft": 58,
+      "textRight": 64,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 946,
+      "height": 1156,
+      "words": 136,
+      "media": 8,
+      "middle": 64,
+      "heading": {
+       "text": "Find your next look.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 0,
+      "textLeft": 58,
+      "textRight": -281,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2102,
+      "height": 1248,
+      "words": 144,
+      "media": 0,
+      "middle": 5,
+      "heading": {
+       "text": "A menu",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3349,
+      "height": 1864,
+      "words": 156,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good tools.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 71,
+      "textLeft": 58,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 5214,
+      "height": 1258,
+      "words": 77,
+      "media": 3,
+      "middle": 14,
+      "heading": {
+       "text": "Meet your barber.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 97,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 6471,
+      "height": 808,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good work",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 103,
+      "textLeft": 58,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 7279,
+      "height": 856,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good cuts",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 80,
+      "right": 124,
+      "textLeft": 80,
+      "textRight": 124,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 8135,
+      "height": 1552,
+      "words": 79,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your way",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 279,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 9687,
+      "height": 352,
+      "words": 30,
+      "media": 0,
+      "middle": 18,
+      "heading": null,
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your cut. Your standard.",
+      "size": 77,
+      "top": 203,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 58,
+      "n": 24
+     },
+     {
+      "x": 100,
+      "n": 8
+     },
+     {
+      "x": 71,
+      "n": 7
+     },
+     {
+      "x": 404,
+      "n": 5
+     },
+     {
+      "x": 344,
+      "n": 4
+     },
+     {
+      "x": 120,
+      "n": 3
+     },
+     {
+      "x": 832,
+      "n": 3
+     },
+     {
+      "x": 90,
+      "n": 2
+     },
+     {
+      "x": 270,
+      "n": 2
+     },
+     {
+      "x": 588,
+      "n": 2
+     },
+     {
+      "x": 391,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 61,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.11,
+    0.43,
+    0.68,
+    0.99,
+    0.71,
+    0.83,
+    0.84,
+    0.43,
+    0.83,
+    0.78,
+    0.39,
+    0.38
+   ],
+   "motion": {
+    "elements": 67,
+    "css": 61,
+    "transitions": 6,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 9952,
+     "screens": 11.8,
+     "words": 788,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 69,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "midfade.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 2,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "chars": 24,
+     "lines": 2,
+     "size": 47.6,
+     "vw": 12.2,
+     "font": "Playfair Display",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 0.99,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 120,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your cut. Your standard.",
+     "words": 4,
+     "lines": 2,
+     "size": 47.6,
+     "font": "Playfair Display"
+    },
+    "headings": [
+     {
+      "text": "Your cut. Your standard.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 47.6,
+      "vw": 12.2,
+      "font": "Playfair Display",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 120,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next look.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 974,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 2155,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 3549,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 5298,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Not sure who to pick?",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 5866,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6208,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7124,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your way to The South.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 7978,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a note.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Playfair Display",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 8834,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 0.81,
+       "mono": false
+      },
+      {
+       "family": "Playfair Display",
+       "share": 0.19,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      34,
+      36,
+      42,
+      48
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 16.4
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Playfair Display",
+      "text": "Good worktakes care."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#10100f",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.03,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#10100f",
+       "top": 64,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#eeebdf",
+       "top": 2093,
+       "hsl": {
+        "h": 48,
+        "s": 0.31,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#1b1b19",
+       "top": 8144,
+       "hsl": {
+        "h": 60,
+        "s": 0.04,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#c6c2b8",
+       "share": 0.34
+      },
+      {
+       "color": "#f1eee5",
+       "share": 0.24
+      },
+      {
+       "color": "#211f1b",
+       "share": 0.21
+      },
+      {
+       "color": "#5c584f",
+       "share": 0.12
+      },
+      {
+       "color": "#c5a46c",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#c5a46c",
+      "hsl": {
+       "h": 38,
+       "s": 0.43,
+       "l": 0.6
+      },
+      "fg": "#14130f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 10,
+     "inHero": 2,
+     "radius": 0,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book Now"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 14,
+     "hairlineSamples": [
+      "div.gallery-bottom 358px",
+      "article.service-row.motion-in 358px",
+      "article.service-row.motion-in 358px",
+      "article.service-row.motion-in 358px",
+      "article.service-row.motion-in 358px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 9,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.9
+     }
+    ],
+    "nav": {
+     "links": 8,
+     "fixed": true,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo",
+     "playfair display"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 9952,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 64,
+      "height": 760,
+      "words": 7,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Your cut.",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 48,
+      "textLeft": 16,
+      "textRight": 48,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 912,
+      "height": 1181,
+      "words": 136,
+      "media": 8,
+      "middle": 389,
+      "heading": {
+       "text": "Find your next look.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": -606,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 2093,
+      "height": 1395,
+      "words": 144,
+      "media": 0,
+      "middle": 16,
+      "heading": {
+       "text": "A menu",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 3487,
+      "height": 1748,
+      "words": 156,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good tools.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 29,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 5236,
+      "height": 911,
+      "words": 77,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Meet your barber.",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 6146,
+      "height": 916,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good work",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 34,
+      "textLeft": 16,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 7062,
+      "height": 854,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good cuts",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 52,
+      "textLeft": 16,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 7916,
+      "height": 1569,
+      "words": 79,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your way",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 9484,
+      "height": 468,
+      "words": 30,
+      "media": 0,
+      "middle": 16,
+      "heading": null,
+      "left": 16,
+      "right": 26,
+      "textLeft": 16,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your cut. Your standard.",
+      "size": 48,
+      "top": 120,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 29
+     },
+     {
+      "x": 89,
+      "n": 11
+     },
+     {
+      "x": 35,
+      "n": 7
+     },
+     {
+      "x": 58,
+      "n": 3
+     },
+     {
+      "x": 74,
+      "n": 3
+     },
+     {
+      "x": 298,
+      "n": 3
+     },
+     {
+      "x": 779,
+      "n": 3
+     },
+     {
+      "x": 538,
+      "n": 2
+     },
+     {
+      "x": 202,
+      "n": 1
+     },
+     {
+      "x": 220,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 63,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "16 thin rule(s)/divider line(s): div.gallery-bottom 1221px | article.service-row.motion-in 1221px | article.service-row.motion-in 1221px | article.service-row.motion-in 1221px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "8 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "2 row(s) of identical cards each topped with a small icon (7, 3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (section #eeebdf, text #f1eee5).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "18 different font sizes (12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 26, 32, 34, 46, 48, 64, 68, 86).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "3 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 12 different lines (109px, 626px, 732px, 122px, 357px, 431px, 604px); the three most used hold only 57% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 768,
+   "message": "2 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/desktop-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/desktop-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/desktop-page-02.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/tablet-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/tablet-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/mobile-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/mobile-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/ux-review-final/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

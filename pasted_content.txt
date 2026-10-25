@@ -1,0 +1,300 @@
+# PROJECT PROMPT: THE SOUTH BARBERS — WEB-BASED BARBERSHOP SYSTEM UI PROTOTYPE
+
+## Project Description
+Create a modern, premium, and visually appealing web-based system prototype for **The South Barbers**, a barbershop offering haircut services, grooming products, and online appointment booking.
+
+The purpose of this project is to demonstrate the proposed website design, user interface, navigation, and customer experience. This is a **UI-only prototype**, not a production-ready system.
+
+Focus on frontend development, visual presentation, realistic sample data, and interactive UI elements. Do not implement a backend, database, authentication system, payment gateway, or external API.
+
+## 1. Design and Visual Identity
+Create a premium barbershop aesthetic using:
+- Black, charcoal gray, white, and subtle gold accents.
+- Bold, modern typography.
+- High-quality haircut and barbershop photography.
+- Clean layouts with generous spacing.
+- Modern cards, subtle shadows, rounded corners, and smooth transitions.
+- Professional hover effects and micro-interactions.
+- Responsive layouts for desktop, tablet, and mobile.
+
+The design should feel like a real, established barbershop brand rather than a generic template.
+
+Use the brand name **The South Barbers** consistently throughout the website.
+
+## 2. Navigation Bar
+Create a responsive navigation bar with:
+- Home
+- Haircuts
+- Services
+- Products
+- Our Barbers
+- Book an Appointment
+- Contact
+
+Include the brand logo or a stylish text-based logo and a prominent "Book Now" button.
+
+Navigation should smoothly scroll to sections on a single-page website or open the appropriate frontend pages if a multi-page layout is used.
+
+## 3. Landing Page
+Design a visually impressive homepage with the following sections.
+
+### Hero Section
+- Full-width hero image featuring a stylish haircut or barbershop interior.
+- Brand name: The South Barbers.
+- Main headline: "Your Style. Your Cut. Your Standard."
+- Short description introducing the barbershop.
+- Primary CTA: "Book an Appointment."
+- Secondary CTA: "Explore Our Services."
+
+Use an elegant dark overlay if text appears over a background image.
+
+### Featured Haircuts
+Display a photo gallery of popular haircut styles:
+- Low Fade
+- Mid Fade
+- High Fade
+- Skin Fade
+- Taper Fade
+- Buzz Cut
+- Textured Crop
+- Pompadour
+- Two-Block Cut
+- Modern Mullet
+
+Each card should include a haircut image, name, and short description.
+
+Add functional category filters and hover effects. Clicking a haircut may open a detail modal or display more information.
+
+### Meet Our Barbers
+Show sample barber profiles with:
+- Profile photo.
+- Name.
+- Specialty.
+- Short biography.
+- "Book with this Barber" button.
+
+Use realistic placeholder profiles that can easily be replaced with the shop's actual barbers.
+
+Clicking the booking button should open the appointment booking interface with the selected barber preselected.
+
+### Why Choose Us?
+Create a section highlighting:
+- Skilled barbers.
+- Personalized haircuts.
+- Premium grooming products.
+- Comfortable shop atmosphere.
+- Convenient appointment booking.
+
+Use icons and concise descriptions.
+
+### Customer Testimonials
+Display sample testimonial cards with customer names, star ratings, and short reviews.
+
+Clearly treat these as demonstration content and make them easy to replace with verified customer reviews.
+
+### Call to Action
+Add a bold promotional section encouraging visitors to schedule their next haircut.
+
+### Footer
+Include:
+- Business name and logo.
+- Shop address placeholder.
+- Contact number placeholder.
+- Operating hours.
+- Social media icons.
+- Quick navigation links.
+- Copyright information.
+
+## 4. Services Section
+Show available barbershop services in a clean card layout.
+
+Example services:
+- Classic Haircut
+- Fade Haircut
+- Haircut and Shampoo
+- Beard Trim
+- Haircut and Beard Package
+- Kids' Haircut
+- Hair Styling
+
+Each service card must include:
+- Service name.
+- Description.
+- Estimated duration.
+- Sample price in Philippine pesos.
+- "Book This Service" button.
+
+Use clearly labeled sample prices that can be edited in the frontend code.
+
+Clicking a booking button should open the appointment modal and preselect the corresponding service.
+
+## 5. Products Section
+Create a visual catalog of grooming products.
+
+Example products:
+- Hair Wax
+- Matte Clay
+- Pomade
+- Hair Gel
+- Styling Powder
+- Hair Shampoo
+- Beard Oil
+
+Each product card should show:
+- Product image.
+- Product name.
+- Short description.
+- Sample price in PHP.
+- Sample availability label.
+- "View Details" button.
+
+The product details button should open a modal with a larger image and additional information.
+
+Do not implement real purchasing, inventory management, cart checkout, or payment processing. Product interactions are for demonstration purposes only.
+
+## 6. Appointment Booking UI
+Create a polished, interactive appointment booking experience using a modal, drawer, or dedicated booking section.
+
+### Booking Steps
+
+**Step 1: Select a Service**
+Display available services with sample prices and estimated durations.
+
+**Step 2: Choose a Barber**
+Allow the customer to select a specific barber or "Any Available Barber."
+
+**Step 3: Select a Date**
+Provide an interactive calendar with selectable dates.
+
+**Step 4: Select a Time**
+Display sample appointment slots, such as:
+- 9:00 AM
+- 10:00 AM
+- 11:00 AM
+- 1:00 PM
+- 2:00 PM
+- 3:00 PM
+- 4:00 PM
+
+Allow customers to select a time slot. Visually distinguish selected, available, and unavailable sample slots.
+
+**Step 5: Enter Customer Information**
+Provide a form containing:
+- Full Name
+- Contact Number
+- Email Address (optional)
+- Additional Notes (optional)
+
+**Step 6: Review Booking**
+Show a summary of the selected service, barber, date, time, and estimated price.
+
+**Step 7: Confirmation Screen**
+After valid form submission, display a polished success screen containing:
+- Success icon.
+- "Appointment Request Submitted!" message.
+- Sample booking reference number.
+- Selected booking details.
+- "Back to Home" button.
+
+### Booking Behavior
+- Implement the entire flow on the frontend.
+- Use local component state to store selections temporarily.
+- Validate required form fields.
+- Allow customers to move backward and forward between steps.
+- Update the booking summary dynamically.
+- Allow customers to change their selections before confirming.
+- Generate a demonstration reference number for the confirmation screen.
+- Clearly indicate that the booking is a demo and has not been sent to the actual shop.
+- Reset the booking form when starting a new appointment.
+
+No actual appointment should be transmitted or saved to an external system.
+
+## 7. Contact Section
+Create a contact section with:
+- Shop address placeholder.
+- Contact number placeholder.
+- Email placeholder.
+- Business hours.
+- Social media links.
+- A visually styled map placeholder or illustrative location panel.
+
+Include a contact form with name, email, and message fields. Form submission should display a frontend success message without sending an actual email.
+
+## 8. Interactive UI Requirements
+The prototype must be interactive, not just a static screenshot.
+
+Implement:
+- Responsive mobile navigation.
+- Functional section navigation.
+- Working CTA buttons.
+- Haircut gallery filters.
+- Haircut and product detail modals.
+- Barber profile interactions.
+- Appointment booking workflow.
+- Interactive date and time selection.
+- Form validation and error messages.
+- Dynamic appointment summary.
+- Booking confirmation screen.
+- Contact form success state.
+- Hover, focus, and selected states.
+- Smooth scrolling and subtle animations.
+
+Use local mock data and frontend state only. Do not simulate persistent storage or claim that bookings are actually saved.
+
+## 9. Technical Requirements
+Use the existing project setup if one is already available.
+
+Recommended frontend stack:
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Lucide icons.
+- Local JavaScript or TypeScript objects for sample data.
+
+Requirements:
+- No backend server.
+- No database.
+- No authentication.
+- No external API integration.
+- No payment processing.
+- No environment variables required for backend services.
+- No complex state management libraries.
+- No unnecessary dependencies.
+
+Use reusable components for service cards, barber cards, product cards, modals, buttons, and form elements.
+
+Keep the code organized, readable, and easy to modify.
+
+If the project already uses a different compatible frontend stack, retain it instead of rebuilding unnecessarily.
+
+## 10. Suggested Page Structure
+Implement the prototype as a single-page website with clearly separated sections, unless the existing project structure favors separate frontend routes.
+
+Suggested structure:
+- Navbar
+- Hero
+- Haircut Gallery
+- Services
+- Products
+- Our Barbers
+- Why Choose Us
+- Testimonials
+- Appointment Booking Modal
+- Contact
+- Footer
+
+Use local sample data for all content.
+
+## 11. Final Deliverable
+Produce a complete, polished frontend prototype that can be launched locally and demonstrated in a browser.
+
+The finished prototype should:
+- Look professional and visually consistent.
+- Demonstrate the complete customer journey.
+- Allow users to explore haircuts, services, products, and barbers.
+- Allow users to complete a simulated appointment booking.
+- Work on both desktop and mobile.
+- Use realistic images and sample content.
+- Avoid unnecessary backend complexity.
+
+**Important:** Prioritize UI quality, usability, visual hierarchy, and interactive demonstrations. Do not overengineer the project. The goal is to present a convincing concept of The South Barbers web-based system to a client, instructor, or stakeholder without needing a functional backend or database.

@@ -1,0 +1,3069 @@
+{
+ "url": "http://127.0.0.1:3000/",
+ "at": "2026-10-23T05:18:33.342Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.44,
+    0.96,
+    0.97,
+    0.96,
+    0.96,
+    0.95,
+    0.96,
+    0.96,
+    0.97,
+    0.96,
+    0.98,
+    0.41
+   ],
+   "motion": {
+    "elements": 37,
+    "css": 37,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11561,
+     "screens": 12.8,
+     "words": 876,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 68,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 14,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "highfade.JPG",
+      "modern_mullet.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The South Barbers",
+     "words": 3,
+     "chars": 17,
+     "lines": 2,
+     "size": 116,
+     "vw": 8.1,
+     "font": "Archivo",
+     "weight": 400,
+     "tracking": -0.055,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.51,
+     "top": 221,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The South Barbers",
+     "words": 3,
+     "lines": 2,
+     "size": 116,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "The South Barbers",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 116,
+      "vw": 8.1,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 221,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find a look that feels like you.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1087,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 3765,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 4839,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 6434,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 7798,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 8738,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make room for a good cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 9676,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your way to The South.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 10216,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a note.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 10475,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      18,
+      24,
+      56,
+      116
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.7
+     },
+     "measureChars": 48,
+     "max": {
+      "size": 116,
+      "vw": 8.1,
+      "font": "Archivo",
+      "text": "The South"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.05,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111210",
+       "top": 122,
+       "hsl": {
+        "h": 90,
+        "s": 0.06,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 900,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#dedfdd",
+       "top": 3578,
+       "hsl": {
+        "h": 90,
+        "s": 0.03,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#1b1c19",
+       "top": 4652,
+       "hsl": {
+        "h": 80,
+        "s": 0.06,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#454440",
+       "share": 0.3
+      },
+      {
+       "color": "#eeece5",
+       "share": 0.25
+      },
+      {
+       "color": "#333231",
+       "share": 0.22
+      },
+      {
+       "color": "#dad8d0",
+       "share": 0.15
+      },
+      {
+       "color": "#e2dfda",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#171713"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a chair",
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 13,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.22
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11561,
+    "margins": {
+     "left": 86,
+     "right": 86
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 122,
+      "height": 778,
+      "words": 30,
+      "media": 2,
+      "middle": 76,
+      "heading": {
+       "text": "The South",
+       "size": 116,
+       "tag": "h1"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 900,
+      "height": 2678,
+      "words": 135,
+      "media": 8,
+      "middle": 20,
+      "heading": {
+       "text": "Find a look",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 3578,
+      "height": 1074,
+      "words": 144,
+      "media": 1,
+      "middle": 145,
+      "heading": {
+       "text": "A menu",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 4652,
+      "height": 1594,
+      "words": 156,
+      "media": 0,
+      "middle": 148,
+      "heading": {
+       "text": "Good tools.",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 6246,
+      "height": 1364,
+      "words": 120,
+      "media": 3,
+      "middle": 72,
+      "heading": {
+       "text": "Meet your",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 99,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 7611,
+      "height": 940,
+      "words": 80,
+      "media": 0,
+      "middle": 136,
+      "heading": {
+       "text": "Good work",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 95,
+      "textLeft": 86,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 8551,
+      "height": 985,
+      "words": 74,
+      "media": 0,
+      "middle": 145,
+      "heading": {
+       "text": "Good cuts",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 144,
+      "textLeft": 86,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 9536,
+      "height": 493,
+      "words": 25,
+      "media": 0,
+      "middle": 488,
+      "heading": {
+       "text": "Make room",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 140,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 10029,
+      "height": 1243,
+      "words": 85,
+      "media": 1,
+      "middle": 155,
+      "heading": {
+       "text": "Find your way",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 86,
+      "right": 106,
+      "textLeft": 86,
+      "textRight": 106,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 11272,
+      "height": 290,
+      "words": 28,
+      "media": 0,
+      "middle": 335,
+      "heading": null,
+      "left": 86,
+      "right": 86,
+      "textLeft": 86,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The South Barbers",
+      "size": 116,
+      "top": 221,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 86,
+      "n": 29
+     },
+     {
+      "x": 146,
+      "n": 7
+     },
+     {
+      "x": 830,
+      "n": 6
+     },
+     {
+      "x": 688,
+      "n": 5
+     },
+     {
+      "x": 816,
+      "n": 5
+     },
+     {
+      "x": 595,
+      "n": 4
+     },
+     {
+      "x": 725,
+      "n": 4
+     },
+     {
+      "x": 623,
+      "n": 3
+     },
+     {
+      "x": 996,
+      "n": 3
+     },
+     {
+      "x": 1052,
+      "n": 3
+     },
+     {
+      "x": 194,
+      "n": 2
+     },
+     {
+      "x": 230,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 75,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.19,
+    "voidBox": {
+     "x": 600,
+     "y": 120,
+     "w": 840,
+     "h": 300
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.5,
+    0.95,
+    0.95,
+    0.97,
+    0.95,
+    0.97,
+    0.95,
+    0.96,
+    0.94,
+    0.95,
+    0.96,
+    0.89
+   ],
+   "motion": {
+    "elements": 36,
+    "css": 36,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 14319,
+     "screens": 14,
+     "words": 868,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 68,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 14,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "highfade.JPG",
+      "modern_mullet.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "upside.JPG",
+      "curtain_mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The South Barbers",
+     "words": 3,
+     "chars": 17,
+     "lines": 2,
+     "size": 92.2,
+     "vw": 12,
+     "font": "Archivo",
+     "weight": 400,
+     "tracking": -0.055,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 166,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The South Barbers",
+     "words": 3,
+     "lines": 2,
+     "size": 92.2,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "The South Barbers",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 92.2,
+      "vw": 12,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 166,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Find a look that feels like you.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1050,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3936,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 5750,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 7899,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 9875,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 10862,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Make room for a good cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 11875,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your way to The South.",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 12332,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a note.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 13321,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      18,
+      24,
+      44,
+      92
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.7
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 92.2,
+      "vw": 12,
+      "font": "Archivo",
+      "text": "The South"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.05,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111210",
+       "top": 110,
+       "hsl": {
+        "h": 90,
+        "s": 0.06,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 950,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#1b1c19",
+       "top": 1367,
+       "hsl": {
+        "h": 80,
+        "s": 0.06,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#dedfdd",
+       "top": 3836,
+       "hsl": {
+        "h": 90,
+        "s": 0.03,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#454440",
+       "share": 0.3
+      },
+      {
+       "color": "#eeece5",
+       "share": 0.24
+      },
+      {
+       "color": "#333231",
+       "share": 0.22
+      },
+      {
+       "color": "#dad8d0",
+       "share": 0.15
+      },
+      {
+       "color": "#e2dfda",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#171713"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 14,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.19
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 74,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 14319,
+    "margins": {
+     "left": 31,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 110,
+      "height": 840,
+      "words": 30,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The South",
+       "size": 92,
+       "tag": "h1"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 950,
+      "height": 2886,
+      "words": 135,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Find a look",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 3836,
+      "height": 1814,
+      "words": 144,
+      "media": 1,
+      "middle": 211,
+      "heading": {
+       "text": "A menu",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 89,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 5650,
+      "height": 2149,
+      "words": 156,
+      "media": 0,
+      "middle": 77,
+      "heading": {
+       "text": "Good tools.",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 7799,
+      "height": 1976,
+      "words": 120,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Meet your",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 9775,
+      "height": 988,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good work",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 44,
+      "textLeft": 31,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 10763,
+      "height": 1036,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good cuts",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 77,
+      "textLeft": 31,
+      "textRight": 77,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 11798,
+      "height": 433,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Make room",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 204,
+      "textLeft": 31,
+      "textRight": 204,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 12232,
+      "height": 1725,
+      "words": 85,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your way",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 107,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 13956,
+      "height": 362,
+      "words": 28,
+      "media": 0,
+      "middle": 227,
+      "heading": null,
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The South Barbers",
+      "size": 92,
+      "top": 166,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 31,
+      "n": 46
+     },
+     {
+      "x": 91,
+      "n": 11
+     },
+     {
+      "x": 391,
+      "n": 5
+     },
+     {
+      "x": 61,
+      "n": 3
+     },
+     {
+      "x": 511,
+      "n": 3
+     },
+     {
+      "x": 152,
+      "n": 2
+     },
+     {
+      "x": 127,
+      "n": 1
+     },
+     {
+      "x": 169,
+      "n": 1
+     },
+     {
+      "x": 184,
+      "n": 1
+     },
+     {
+      "x": 368,
+      "n": 1
+     },
+     {
+      "x": 487,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 75,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.51,
+    0.97,
+    0.97,
+    0.99,
+    0.97,
+    0.97,
+    0.98,
+    0.96,
+    0.98,
+    0.93,
+    0.97,
+    0.97
+   ],
+   "motion": {
+    "elements": 32,
+    "css": 32,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 14288,
+     "screens": 16.9,
+     "words": 868,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 68,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "highfade.JPG",
+      "low_taper.JPG",
+      "midfade.JPG",
+      "highfade.JPG",
+      "mid_taper.JPG",
+      "curtain_mullet.JPG",
+      "modern_mullet.JPG",
+      "mullet.JPG"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The South Barbers",
+     "words": 3,
+     "chars": 17,
+     "lines": 2,
+     "size": 59,
+     "vw": 15.1,
+     "font": "Archivo",
+     "weight": 400,
+     "tracking": -0.055,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 156,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The South Barbers",
+     "words": 3,
+     "lines": 2,
+     "size": 59,
+     "font": "Archivo"
+    },
+    "headings": [
+     {
+      "text": "The South Barbers",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 59,
+      "vw": 15.1,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 156,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Explore the lookbook ↓",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 801,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Find a look that feels like you.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 980,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A few shapes to get the conversation started. Choose a style to see more.",
+      "words": 14,
+      "chars": 73,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1081,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Low Fade",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1721,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Mid Fade",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2090,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "High Fade",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2157,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Textured Crop",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2481,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Taper Fade",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2520,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Curtain Mullet",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2892,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Modern Mullet",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2911,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Mullet",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3291,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Bring a reference, or start with a shape you like.",
+      "words": 10,
+      "chars": 50,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3422,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "A menu for your next cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3723,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Classic Haircut",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4176,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Fade Haircut",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4355,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Haircut & Shampoo",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4535,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Beard Trim",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4714,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Haircut & Beard",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4893,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Kids' Haircut",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 5073,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair Styling",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 5252,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good tools. Easy routines.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 5565,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A sample edit of everyday grooming essentials. Product details and prices are placeholders.",
+      "words": 13,
+      "chars": 91,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5667,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Meet your barber.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 7606,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Different strengths, the same care. Pick a name or let the booking demo choose for you.",
+      "words": 16,
+      "chars": 87,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.42,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7707,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Adrian Reyes",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 8067,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Nico Santos",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 8108,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Miguel Dela Cruz",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 8927,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work takes care.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9374,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From the first conversation to the final detail, a good cut starts with listening.",
+      "words": 14,
+      "chars": 82,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9483,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Skilled hands",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9666,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Made personal",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9811,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Thoughtful essentials",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9957,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A good place to land",
+      "words": 5,
+      "chars": 20,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10103,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "On your time",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10249,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good cuts stay with you.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10535,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“The kind of cut that still looks good when I style it myself. Great attention to detail.”",
+      "words": 17,
+      "chars": 90,
+      "lines": 4,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 10811,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "“Easy to talk through what I wanted. Left feeling looked after, not rushed.”",
+      "words": 13,
+      "chars": 76,
+      "lines": 3,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 11082,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "“A clean fade, a relaxed atmosphere, and a team that remembers the little things.”",
+      "words": 14,
+      "chars": 82,
+      "lines": 4,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.62,
+      "top": 11322,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Make room for a good cut.",
+      "words": 6,
+      "chars": 25,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Archivo",
+      "weight": 400,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 11650,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 44,
+     "maxLines": 4,
+     "over2Lines": 0,
+     "statements": 10,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      16,
+      18,
+      22,
+      39,
+      59
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.7
+     },
+     "measureChars": 21,
+     "max": {
+      "size": 59,
+      "vw": 15.1,
+      "font": "Archivo",
+      "text": "The South"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.05,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111210",
+     "bodyBgHsl": {
+      "h": 90,
+      "s": 0.06,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111210",
+       "top": 108,
+       "hsl": {
+        "h": 90,
+        "s": 0.06,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 898,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#1b1c19",
+       "top": 1285,
+       "hsl": {
+        "h": 80,
+        "s": 0.06,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#dedfdd",
+       "top": 3641,
+       "hsl": {
+        "h": 90,
+        "s": 0.03,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#454440",
+       "share": 0.3
+      },
+      {
+       "color": "#eeece5",
+       "share": 0.24
+      },
+      {
+       "color": "#333231",
+       "share": 0.22
+      },
+      {
+       "color": "#dad8d0",
+       "share": 0.15
+      },
+      {
+       "color": "#e2dfda",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#c4a56d",
+      "hsl": {
+       "h": 39,
+       "s": 0.42,
+       "l": 0.6
+      },
+      "fg": "#171713"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book an appointment"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 74,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 14288,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#home.hero",
+      "tag": "section",
+      "top": 108,
+      "height": 790,
+      "words": 30,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The South",
+       "size": 59,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#haircuts.section.section-haircuts",
+      "tag": "section",
+      "top": 898,
+      "height": 2743,
+      "words": 135,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Find a look",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section.section-services",
+      "tag": "section",
+      "top": 3641,
+      "height": 1843,
+      "words": 144,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "A menu",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#products.section.section-products",
+      "tag": "section",
+      "top": 5483,
+      "height": 2041,
+      "words": 156,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good tools.",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#barbers.section.section-barbers",
+      "tag": "section",
+      "top": 7524,
+      "height": 1768,
+      "words": 120,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Meet your",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#why-us.section.section-values",
+      "tag": "section",
+      "top": 9292,
+      "height": 1161,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good work",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 23,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.section-testimonials",
+      "tag": "section",
+      "top": 10453,
+      "height": 1121,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good cuts",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 38,
+      "textLeft": 20,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#appointment.booking-cta",
+      "tag": "section",
+      "top": 11574,
+      "height": 449,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Make room",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section.section-contact",
+      "tag": "section",
+      "top": 12023,
+      "height": 1826,
+      "words": 85,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your way",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 13849,
+      "height": 439,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The South Barbers",
+      "size": 59,
+      "top": 156,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 53
+     },
+     {
+      "x": 60,
+      "n": 12
+     },
+     {
+      "x": 201,
+      "n": 5
+     },
+     {
+      "x": 42,
+      "n": 2
+     },
+     {
+      "x": 88,
+      "n": 2
+     },
+     {
+      "x": 74,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 75,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (text #eeece5).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 12 different lines (86px, 146px, 830px, 688px, 816px, 595px, 725px); the three most used hold only 56% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/after/desktop-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/desktop-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/desktop-page-02.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/after/tablet-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/tablet-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/admin/Downloads/TSBS/.taste-skill/after/mobile-fold.jpg",
+   "pages": [
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/mobile-page-01.jpg",
+    "/Users/admin/Downloads/TSBS/.taste-skill/after/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
