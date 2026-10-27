@@ -41,15 +41,35 @@ export const haircuts = [
   { name: 'Mullet', category: 'Texture', image: mulletImage, description: 'A distinctive shape with length, movement, and personality.' },
 ]
 
-export const services = [
-  { name: 'Classic Haircut', description: 'A tailored cut, finished with a clean neck line and style.', duration: '35 min', price: 450, tag: 'The essential' },
-  { name: 'Fade Haircut', description: 'A detail-led fade, blended to your preferred profile.', duration: '45 min', price: 550, tag: 'Most booked' },
-  { name: 'Haircut & Shampoo', description: 'A full cut with a refreshing wash and finished style.', duration: '50 min', price: 650, tag: 'Fresh start' },
-  { name: 'Beard Trim', description: 'Shape, edge, and balance your beard with care.', duration: '25 min', price: 300, tag: 'The detail' },
-  { name: 'Haircut & Beard', description: 'The complete reset: a precision cut and beard tidy.', duration: '60 min', price: 750, tag: 'Full service' },
-  { name: "Kids' Haircut", description: 'A relaxed, patient cut for the next generation.', duration: '30 min', price: 350, tag: 'All ages' },
-  { name: 'Hair Styling', description: 'A polished finish, with product advice for your routine.', duration: '20 min', price: 250, tag: 'Finishing touch' },
+type Service = {
+  name: string
+  description: string
+  price: number
+  startingAt?: boolean
+  category: 'Haircuts' | 'Grooming' | 'Combinations' | 'Color'
+}
+
+export const services: Service[] = [
+  { name: 'Haircut Only', description: 'A haircut shaped to your preferred style.', price: 250, category: 'Haircuts' },
+  { name: 'Toddlers / Kids Haircut', description: 'A patient, comfortable haircut for little ones.', price: 300, category: 'Haircuts' },
+  { name: 'Scalp Treatment & Haircut', description: 'Scalp care paired with your haircut.', price: 800, category: 'Combinations' },
+  { name: 'Perm & Haircut', description: 'A perm paired with a haircut to shape your look.', price: 1500, category: 'Combinations' },
+  { name: 'Haircut & Shampoo', description: 'A haircut paired with a refreshing shampoo.', price: 350, category: 'Combinations' },
+  { name: 'High Fashion Color', description: 'Discuss your preferred color with the team.', price: 2000, startingAt: true, category: 'Color' },
+  { name: 'Haircut and Beard Works', description: 'A haircut paired with beard grooming.', price: 350, category: 'Combinations' },
+  { name: 'Haircut & Hair Tattoo', description: 'A haircut paired with a hair tattoo design.', price: 380, category: 'Combinations' },
+  { name: 'Beard Works Only', description: 'Dedicated grooming for your beard.', price: 250, category: 'Grooming' },
+  { name: 'Facial Shave', description: 'A clean shave for your face.', price: 200, category: 'Grooming' },
+  { name: 'VIP Haircut Package', description: 'Ask the team about the VIP haircut package.', price: 600, category: 'Combinations' },
 ]
+
+export const formatServicePrice = (service: Pick<Service, 'price' | 'startingAt'>) =>
+  `${service.startingAt ? 'Starts at ' : ''}₱${service.price.toLocaleString('en-PH')}`
+
+export const formatServiceTotal = (selected: Service[]) => formatServicePrice({
+  price: selected.reduce((total, service) => total + service.price, 0),
+  startingAt: selected.some((service) => service.startingAt),
+})
 
 export type BarberCut = {
   id: string
@@ -94,20 +114,6 @@ export const products = [
   { name: 'Styling Powder', mockup: 4, type: 'Lightweight volume', price: 480, availability: 'Sample · In shop', description: 'Instant lift and airy texture without adding weight.' },
   { name: 'Daily Shampoo', mockup: 5, type: 'Gentle cleanse', price: 520, availability: 'Sample · In shop', description: 'A gentle everyday wash that leaves hair feeling fresh and balanced.' },
   { name: 'Beard Oil', mockup: 6, type: 'Softening care', price: 390, availability: 'Sample · Limited', description: 'A lightweight finishing oil to soften facial hair and add a subtle sheen.' },
-]
-
-export const benefits = [
-  { icon: 'scissors', title: 'Skilled hands', text: 'Barbers who listen first, then work with intent.' },
-  { icon: 'sparkles', title: 'Made personal', text: 'A cut shaped around your hair, routine, and point of view.' },
-  { icon: 'bottle', title: 'Thoughtful essentials', text: 'Grooming staples chosen to make the finish last.' },
-  { icon: 'chair', title: 'A good place to land', text: 'A welcoming chair, an unhurried pace, and good conversation.' },
-  { icon: 'calendar', title: 'On your time', text: 'A simple demo booking journey, from chair to calendar.' },
-]
-
-export const testimonials = [
-  { name: 'Luis M.', initials: 'LM', rating: 5, text: 'The kind of cut that still looks good when I style it myself. Great attention to detail.' },
-  { name: 'Gab S.', initials: 'GS', rating: 5, text: 'Easy to talk through what I wanted. Left feeling looked after, not rushed.' },
-  { name: 'Marco R.', initials: 'MR', rating: 5, text: 'A clean fade, a relaxed atmosphere, and a team that remembers the little things.' },
 ]
 
 export const sampleDateOffsets = [0, 1, 2, 3, 4, 5, 6]

@@ -1,24 +1,19 @@
 import { useState } from 'react'
-import { ArrowRight, Check, Clock3 } from 'lucide-react'
-import { services } from './data'
+import { ArrowRight, Check } from 'lucide-react'
+import { formatServicePrice, formatServiceTotal, services } from './data'
 
 const groups = [
   { label: 'All services', names: services.map((service) => service.name) },
-  { label: 'Haircuts', names: ['Classic Haircut', 'Fade Haircut', "Kids' Haircut"] },
-  { label: 'Grooming', names: ['Beard Trim', 'Hair Styling'] },
-  { label: 'Combinations', names: ['Haircut & Shampoo', 'Haircut & Beard'] },
+  ...['Haircuts', 'Grooming', 'Combinations', 'Color'].map((label) => ({ label, names: services.filter((service) => service.category === label).map((service) => service.name) })),
 ]
-const money = (value: number) => `₱${value.toLocaleString('en-PH')}`
 
-export default function ServiceMenu({ onBook }: { onBook: (service: string) => void }) {
+export default function ServiceMenu({ onBook }: { onBook: (services: string[]) => void }) {
   const [group, setGroup] = useState('All services')
-  const [selectedName, setSelectedName] = useState(services[0].name)
-  const selected = services.find((service) => service.name === selectedName) ?? services[0]
+  const [selectedNames, setSelectedNames] = useState<string[]>([])
+  const selected = services.filter((service) => selectedNames.includes(service.name))
   const visible = services.filter((service) => groups.find((item) => item.label === group)?.names.includes(service.name))
-  const chooseGroup = (label: string) => {
-    setGroup(label)
-    const names = groups.find((item) => item.label === label)?.names ?? []
-    if (!names.includes(selectedName)) setSelectedName(names[0] ?? services[0].name)
+  const toggleService = (name: string) => {
+    setSelectedNames((current) => current.includes(name) ? current.filter((item) => item !== name) : [...current, name])
   }
 
   return <section id="services" className="section section-services service-menu-section">
@@ -27,18 +22,22 @@ export default function ServiceMenu({ onBook }: { onBook: (service: string) => v
         <h2>A menu for<br />your next cut.</h2>
       </div>
       <div className="service-menu-panel" data-ui>
-        <div className="service-menu-top"><h3>Choose your service</h3></div>
-        <div className="service-menu-filters" role="group" aria-label="Service categories">{groups.map((item) => <button key={item.label} type="button" aria-pressed={group === item.label} onClick={() => chooseGroup(item.label)}>{item.label}</button>)}</div>
-        <div className="service-menu-list" role="group" aria-label={`${group}, choose a service`}>
-          {visible.map((service) => <button className={`service-menu-option ${selectedName === service.name ? 'is-selected' : ''}`} type="button" key={service.name} aria-pressed={selectedName === service.name} onClick={() => setSelectedName(service.name)}>
-            <span className="service-menu-check" aria-hidden="true">{selectedName === service.name && <Check size={15} />}</span>
-            <span className="service-menu-name"><strong>{service.name}</strong><span><Clock3 size={13} aria-hidden="true" />{service.duration}</span></span>
-            <span className="service-menu-price">{money(service.price)}</span>
+        <div className="service-menu-top"><h3>Choose your services</h3><p>Select one or more services.</p></div>
+        <div className="service-menu-filters" role="group" aria-label="Service categories">{groups.map((item) => <button key={item.label} type="button" aria-pressed={group === item.label} onClick={() => setGroup(item.label)}>{item.label}</button>)}</div>
+        <div className="service-menu-list" role="group" aria-label={`${group}, choose services`}>
+          {visible.map((service) => <button className={`service-menu-option ${selectedNames.includes(service.name) ? 'is-selected' : ''}`} type="button" key={service.name} aria-pressed={selectedNames.includes(service.name)} onClick={() => toggleService(service.name)}>
+            <span className="service-menu-check" aria-hidden="true">{selectedNames.includes(service.name) && <Check size={15} />}</span>
+            <span className="service-menu-name"><strong>{service.name}</strong></span>
+            <span className="service-menu-price">{formatServicePrice(service)}</span>
           </button>)}
         </div>
         <div className="service-menu-selection">
-          <div className="service-menu-summary" role="status" aria-live="polite" aria-atomic="true"><span>Your selection</span><h4>{selected.name}</h4><p>{selected.description}</p><div><span>{selected.duration}</span><strong>{money(selected.price)} <small>sample price</small></strong></div></div>
-          <button className="button service-menu-book" type="button" onClick={() => onBook(selected.name)}>Continue with this service <ArrowRight size={17} aria-hidden="true" /></button>
+          <div className="service-menu-summary" role="status" aria-live="polite" aria-atomic="true">
+            <span>Your selection</span>
+            {selected.length ? <ul className="selected-service-list">{selected.map((service) => <li key={service.name}><span>{service.name}</span><strong>{formatServicePrice(service)}</strong></li>)}</ul> : <p>Select services to see your total.</p>}
+            <div className="service-menu-total"><span>Total cost</span><strong>{formatServiceTotal(selected)}</strong></div>
+          </div>
+          <button className="button service-menu-book" type="button" disabled={!selected.length} onClick={() => onBook(selectedNames)}>Continue with selected services <ArrowRight size={17} aria-hidden="true" /></button>
           <p className="service-menu-note">Demo booking only. Choose your barber, date, and time next.</p>
         </div>
       </div>
